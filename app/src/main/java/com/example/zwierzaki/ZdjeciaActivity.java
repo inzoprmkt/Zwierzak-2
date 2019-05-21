@@ -7,7 +7,7 @@ import android.widget.Toast;
 
 public class ZdjeciaActivity extends AppCompatActivity {
 
-    Button tDodajZdjecie;
+    Button tDodajZdjecie; //
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
