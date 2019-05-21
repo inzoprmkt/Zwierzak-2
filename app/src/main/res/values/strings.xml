@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Zwierzaki</string>
+    <array name="plcie">
+        <item>Samiec</item>
+        <item>Samica</item>
+    </array>
+    <string-array name="shopping_item">
+        <item>Szczepienie</item>
+        <item>Wszczepienie chipa</item>
+        <item>Badania</item>
+        <item>Zabieg</item>
+        <item>Zabieg higieniczny</item>
+
+    </string-array>
+    <!--<string name="app_name">MultichoiceTutorial</string>-->
+    <string name="make_an_order">Make an order</string>
+    <string name="dialog_title">Wskaż cele wizyty </string>
+    <string name="ok_label">OK</string>
+    <string name="dismiss_label">Powrót</string>
+    <string name="clear_all_label">Wyczyść</string>
+
+    <string-array name="szczep_menu">
+        <item>Wścieklizna</item>
+        <item>Parwowiroza</item>
+        <item>Nosówka</item>
+        <item>Leptospiroza</item>
+        <item>Choroba Rubartha</item>
+        <item>Inne</item>
+    </string-array>
+
+    <string-array name="badania">
+        <item>Morfologia</item>
+        <item>Rozmaz krwi</item>
+        <item>Badanie moczu</item>
+        <item>Badania biochemiczne</item>
+        <item>RTG</item>
+        <item>EKG</item>
+        <item>USG</item>
+        <item>Inne</item>
+    </string-array>
+    <string-array name="zabHignien">
+        <item>Czyszczenie zębów</item>
+        <item>Wyciąganie kleszczy</item>
+        <item>Czyszczenie uszu</item>
+        <item>Strzyżenie sierści</item>
+        <item>Usuwanie kamienia nazębnego</item>
+        <item>Inne</item>
+    </string-array>
+</resources>
